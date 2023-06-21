@@ -1,2 +1,2 @@
 # learning
-start learing code from the beginning
+start learning code from the beginning
