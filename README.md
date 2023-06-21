@@ -1,2 +1,2 @@
 # learning
-learning how to use github
+start learning code from the beginning
